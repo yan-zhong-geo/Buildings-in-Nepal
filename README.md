@@ -15,7 +15,7 @@ This repository contains a curated dataset of building footprints within Nepal, 
 The building data has been extracted and compiled from various open datasets, including:
 
 | Data Source | Data Type in Here | Approx. Number of Buildings | Data name in Here | Data Quality / Notes | Original data source |
-|------------|-----------|---------|--------------------|-----------------------------------|--------------------------|
+|----------|---------|---------|-----------------|-----------------------------------|-------------------------|
 | OpenStreetMap (OSM) | Polygon | 8 million | [OSM_Nepal.gpkg](https://doi.org/10.5281/zenodo.17660938) | Generally accurate; urban areas more complete; may miss some rural buildings | [OpenStreetMap Data Extracts](https://download.geofabrik.de/)
 | GlobalBuildingAtlas (GBA) | Point | 12 million | [GBA_nepal_buildings.gpkg](https://doi.org/10.5281/zenodo.17660842) | The data is the most accurate, but due to satellite image quality issues, there are extensive data gaps across the entire country | [mediaTUM](https://mediatum.ub.tum.de/1782307)
 | Google Open Building | Polygon / Point | X,XXX | X,XXX | X,XXX | X,XXX
